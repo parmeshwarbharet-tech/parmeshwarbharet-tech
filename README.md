@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Parmeshwar! 👋
 
-<!--
-**parmeshwarbharet-tech/parmeshwarbharet-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring **Full-Stack Developer** passionate about building scalable web applications and contributing to open-source software. My ultimate goal is to build impactful digital experiences and work with incredible remote teams like **Automattic**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+
+**Frontend Development:**
+- 🌐 HTML5 | CSS3 | JavaScript (ES6+)
+- ⚛️ React.js (Essential for WordPress Gutenberg Editor)
+- 🎨 Tailwind CSS / Bootstrap
+
+**Backend & Database:**
+- 🐘 PHP (Core WordPress Technology)
+- 🟢 Node.js / Express.js
+- 🗄️ MySQL / MongoDB
+
+---
+
+### 🚀 Future Projects & Goals
+
+- 🛠️ Building production-ready custom WordPress themes and plugins from scratch.
+- 🐛 Contributing to Open Source projects (WordPress Core & Gutenberg).
+
+---
+
+### 📈 GitHub Stats
+
+![Your GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
